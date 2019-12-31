@@ -1,0 +1,15 @@
+.PostingPaper {
+  padding:3rem;
+  margin: 2rem;
+}
+
+body{
+  background-color: pink;
+}
+
+.PostingForm {
+  display: flex;
+  flex-direction:column;
+  padding: 1rem;
+
+}
